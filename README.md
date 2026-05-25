@@ -2,6 +2,10 @@
 
 THIS README HAS BEEN GENERATED USING AI, YES I'M LAZY 
 
+Alot of time has went into this project, if you value and of the information this project contains, consider dontaing
+  -CashApp : $xchempychx
+  -Paypal : https://paypal.me/crank187star
+
 # Infiniti G37 ECU Research Tools
 
 Experimental ECU research, diagnostics, checksum, ROM inspection, and flashing-support tools for the Infiniti G37 / Nissan VQ37 platform.

@@ -2,7 +2,8 @@
 
 THIS README HAS BEEN GENERATED USING AI, YES I'M LAZY 
 
-Alot of time has went into this project, if you value and of the information this project contains, consider dontaing
+A Lot of time has went into this project, if you value and of the information this project contains, consider donating
+
   -CashApp : $xchempychx
   -Paypal : https://paypal.me/crank187star
 

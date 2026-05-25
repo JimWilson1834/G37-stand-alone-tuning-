@@ -5,6 +5,7 @@ THIS README HAS BEEN GENERATED USING AI, YES I'M LAZY
 A Lot of time has went into this project, if you value and of the information this project contains, consider donating
 
   -CashApp : $xchempychx
+  
   -Paypal : https://paypal.me/crank187star
 
 # Infiniti G37 ECU Research Tools

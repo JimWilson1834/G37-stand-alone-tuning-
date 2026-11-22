@@ -1,0 +1,18 @@
+{
+  "schema": "g37-decoded-interval-v1",
+  "input_sha256": "a5c72f77a9ffc775793ac419c69bc7afe3ee582e8b918f8321ed65ab513ac706",
+  "variant": "full",
+  "capture_sha256": "e30e942bd045b92aeba076b48a0fded79aa342244612310c271c960bc2f23296",
+  "capture_evidence_file": "../../G37_Historical_Archive/historical/fixtures/capture-evidence.json",
+  "capture_evidence_sha256": "ab1ea69d1cfe8fb7c0a2e41f91471060003379a202b0d067c299d47953a4eb77",
+  "decoded_file": "../../G37_Historical_Archive/historical/fixtures/teat_decoded_sparse_0x008200_0x180000.bin",
+  "decoded_sha256": "822ebf4b44d8af3929205e58419997af7c19214287020c48dd30decbe88a3774",
+  "rom_offset": 33280,
+  "length": 1539584,
+  "reference_file": "../ACTUAL TOOL/DEF/Original.bin",
+  "reference_sha256": "c4f37931b7ad760594f0bb16313278bc0b687e43e6e5aea3e48257e2c9f20361",
+  "decoder": {
+    "name": "Recovered historical decoded artifact (transform not rerun)",
+    "version": "historical-artifact"
+  }
+}
